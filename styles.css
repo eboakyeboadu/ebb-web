@@ -25,7 +25,7 @@
     /* Applied Color Variables */
     --primary-color: var(--mit-sloan-red);
     --secondary-color: var(--mit-navy);
-    --accent-color: var(--mit-orange);
+    --accent-color: var(--mit-sloan-red);
     --text-primary: var(--mit-dark-gray-2);
     --text-secondary: var(--mit-silver-gray);
     --bg-light: #fafafa;
